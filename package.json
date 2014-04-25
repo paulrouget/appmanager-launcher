@@ -1,0 +1,9 @@
+{
+  "name": "app-manager-launcher",
+  "fullName": "App Manager Launcher",
+  "id": "appmanagerlauncher@paulrouget.com",
+  "description": "Add a button to the toolbar to stat the App Manager",
+  "author": "Paul Rouget",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
